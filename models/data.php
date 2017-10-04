@@ -1,10 +1,10 @@
 <?php
 
 //config
-define ('DB_NAME','autotitleconsultant');
+define ('DB_NAME','YOUR DATABASE');
 define ('DB_HOST','localhost');
-define ('DB_USER','atc2017');
-define ('DB_PASS', '$$**$$');
+define ('DB_USER','YOUR USERNAME');
+define ('DB_PASS', 'YOUR PASSWORD');
 
  class data{
     //Database Connection Variables 
